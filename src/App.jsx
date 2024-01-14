@@ -104,7 +104,9 @@ const MovieItem = ({
   genre,
   onEdit,
   onDelete,
+  // eslint-disable-next-line no-unused-vars
   status,
+  // eslint-disable-next-line no-unused-vars
   isLiked,
 }) => {
   return (
